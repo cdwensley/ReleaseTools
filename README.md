@@ -1,3 +1,6 @@
+> [!WARNING]
+> The tooling in this repository is deprecated. We recommend using the [`gap-actions/release-pkg`](https://github.com/gap-actions/release-pkg) GitHub Action in a GitHub workflow for making releases.
+
 # ReleaseTools for GAP packages
 
 The scripts in this repository along with this README are meant to help
